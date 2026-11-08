@@ -1,0 +1,9 @@
+{
+  "name": "brana-registro-pedidos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Endpoint Vercel para centralizar pedidos en Google Sheets",
+  "dependencies": {
+    "googleapis": "^144.0.0"
+  }
+}
